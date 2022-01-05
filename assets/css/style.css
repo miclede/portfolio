@@ -6,7 +6,27 @@
 #banner.fork2 {
     position: fixed;
     left: 50%;
-    margin-left: -275px;
+    margin-left: -235px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height: 14px;
+    font-size: 14px;
+}
+
+#banner.fork3 {
+    position: fixed;
+    left: 50%;
+    margin-left: -145px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height: 14px;
+    font-size: 14px;
+}
+
+#banner.fork4 {
+    position: fixed;
+    left: 50%;
+    margin-left: -55px;
     padding: 10px 12px;
     margin-top: 6px;
     line-height: 14px;
