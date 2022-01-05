@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-#banner .fork2 {
+#banner.fork2 {
     position: fixed;
     left: 50%;
     margin-left: -275px;
