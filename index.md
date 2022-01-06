@@ -1,4 +1,6 @@
+<p align="center">
 ![TapTop_Hearts](assets/images/hearts.png)
+</p>
 
 ## Welcome to GitHub Pages
 
