@@ -1,6 +1,8 @@
 <p align="center">
-![TapTop_Hearts](assets/images/hearts.png)
+  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/hearts.png" alt="Taptop_Hearts"/>
 </p>
+
+![TapTop_Hearts](assets/images/hearts.png)
 
 ## Welcome to GitHub Pages
 
