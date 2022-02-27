@@ -10,7 +10,7 @@ Email: micledev@gmail.com
   - Scriptable objects
   - Custom render pipeline
   - Pathfinding and AI control
-- Religious adherence to S.O.L.I.D principles.
+- Follower of to S.O.L.I.D principles.
 - Functional understanding of version control. (Git primarily)
 - Experienced with tracking software, including having made internal tooling for overhead reduction in other developer teams.
 - Knowledgeable of the following project tracking and assistance software:
