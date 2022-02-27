@@ -25,7 +25,7 @@ Email: micledev@gmail.com
 
 
 Most recent work experience:
-www.linkedin.com/company/blok-party
+[Blok.Party Linkedin](www.linkedin.com/company/blok-party)
 
 Worked on multiple professional game projects, tech demos, and internal tooling for the company Blok.Party which were releasing games to their console the TapTop (previously PlayTable).
 
