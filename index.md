@@ -1,3 +1,5 @@
+Here are some of the projects I worked on at [Blok.Party](www.linkedin.com/company/blok-party)
+#### (I recommend downloading for best performance)
 ### Blok.Party - Splodey
 <p align="center">
   <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/splodey_compressed.gif" alt="Taptop_Splodey"/>
