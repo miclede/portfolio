@@ -31,7 +31,7 @@ Examples of technology used while employed at Blok.Party:
 - Debugging and testing on in-house console devices.
 - Worked with separate development teams as QA developer to bug fix games in project and on console in preparation for hardware release.
 
-### Here is one of the games I was the main developer on while working at Blok.Party:
+### Blok.Party - Ticket to Ride
 <p align="center">
   <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/ttr_compression.gif" alt="Taptop_TicketToRide"/>
 </p>
