@@ -5,9 +5,9 @@ Email: micledev@gmail.com
 - Experienced using in company custom frameworks and developing with adherence to multiple teams. (QA, Design, joint development)
 - Strong understanding of C# and Unity environment mechanical knowledge including:
   - Animation and Mecanim animator
-  - Sound and music
+  - Sound and Audio Mixer
   - UI (canvas and 3d space)
-  - Shader building
+  - Shader Graph
   - Scriptable objects
   - Custom render pipeline
   - Pathfinding and AI control
@@ -32,4 +32,4 @@ Worked on multiple professional game projects, tech demos, and internal tooling 
 Examples of technology used while employed at Blok.Party:
 - Utilized internal RFID based Blockchain framework to create games.
 - Debugging and testing on in-house console devices.
-- Worked with separate development teams as QA developer to bug fix both game projects and console to framework software in preparation for hardware release.
+- Worked with separate development teams as QA developer to bug fix games in project and on console in preparation for hardware release.
