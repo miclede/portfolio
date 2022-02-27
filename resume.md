@@ -35,3 +35,7 @@ Examples of technology used while employed at Blok.Party:
 <p align="center">
   <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/ttr_compression.gif" alt="Taptop_TicketToRide"/>
 </p>
+### Blok.Party - Hearts
+<p align="center">
+  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/hearts_compressed.gif" alt="Taptop_Hearts"/>
+</p>
