@@ -1,9 +1,9 @@
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/hearts.png" alt="Taptop_Hearts"/>
+  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/set.png" alt="Taptop_Hearts"/>
 </p>
 
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/set.png" alt="Taptop_Set"/>
+  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/tickettoride.png" alt="Taptop_Set"/>
 </p>
 
 <p align="center">
@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/tickettoride.png" alt="Taptop_TicketToRide"/>
+  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/hearts.png" alt="Taptop_TicketToRide"/>
 </p>
