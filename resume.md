@@ -1,5 +1,5 @@
-Email: micledev@gmail.com
 #### Unity Game Developer and Programmer
+Email: micledev@gmail.com
 - Self Taught, experience developing projects in Unity (C# and Javascript) dating back 9 years.
 - Experienced using in company custom frameworks and developing with adherence to multiple teams. (QA, Design, joint development)
 - Strong understanding of C# and Unity environment mechanical knowledge including:
@@ -21,6 +21,7 @@ Email: micledev@gmail.com
 - Proficient in summarizing build details and writing patch notes. (both internal and release)
 - Confident in debugging errors and fixing crashes both in engine and on device builds.
 - Experienced with internal releases and using in house pipelines to deliver project builds
+
 #### Most recent work experience: [Blok.Party Linkedin](www.linkedin.com/company/blok-party)
 Worked on multiple professional game projects, tech demos, and internal tooling for the company Blok.Party which were releasing games to their console the TapTop (previously PlayTable).
 
