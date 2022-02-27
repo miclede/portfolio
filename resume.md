@@ -1,4 +1,3 @@
-## Michael L'Estrange
 #### Unity Game Developer and Programmer
 Email: micledev@gmail.com
 
