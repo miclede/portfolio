@@ -1,3 +1,4 @@
+### Michael L'Estrange
 #### Unity Game Developer and Programmer
 Email: micledev@gmail.com
 - Self Taught, experience developing projects in Unity (C# and Javascript) dating back 9 years.
