@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/ttr_compressed.gif" alt="Taptop_TicketToRide"/>
+  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/ttr_compression.gif" alt="Taptop_TicketToRide"/>
 </p>
 
 <p align="center">
