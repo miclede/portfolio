@@ -2,6 +2,7 @@
 Email: micledev@gmail.com
 - Self Taught, experience developing projects in Unity (C# and Javascript) dating back 9 years.
 - Experienced using in company custom frameworks and developing with adherence to multiple teams. (QA, Design, joint development)
+
 - Strong understanding of C# and Unity environment mechanical knowledge including:
   - Animation and Mecanim animator
   - Sound and Audio Mixer
@@ -13,6 +14,7 @@ Email: micledev@gmail.com
 - Follower of to S.O.L.I.D principles.
 - Functional understanding of version control. (Git primarily)
 - Experienced with tracking software, including having made internal tooling for overhead reduction in other developer teams.
+
 - Knowledgeable of the following project tracking and assistance software:
   - Monday
   - Jira
