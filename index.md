@@ -1,4 +1,4 @@
-Here are some of the projects I worked on at [Blok.Party](www.linkedin.com/company/blok-party)
+Here are some of the projects I worked on while at [Blok.Party](www.linkedin.com/company/blok-party)
 #### (I recommend downloading for best viewing experience)
 ### Blok.Party - Splodey
 <p align="center">
