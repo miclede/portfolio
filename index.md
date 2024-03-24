@@ -1,6 +1,14 @@
 ### Welcome!
 
-My name is Michael, I am a game developer and programmer that specializes in C# based projects within the Unity engine. For the last 10 years I have been working within Unity as both a hobby and profession; back when we used naked prefabs in place of scriptable objects and people still talked about MonoDevelop. My experiences have led me to be efficient with all forms of technology and I personally find myself to be proficient with: HTML, CSS, JS, C#, and Java programming languages. Below you can find some gif examples of my most recent professional work and further details on my Unity based abilities on the resume page of this site (as well as some more gifs) please feel free to reach out to me with any questions related to my work or experience.
+My name is Michael, I am a seasoned game developer with a passion for crafting immersive experiences since 2013. Throughout my journey, I have honed my skills in utilizing company custom frameworks while seamlessly collaborating with diverse teams in both QA, Design and in joint development infrastructure.
+
+My expertise lies in the utilization of C# scripting and Unity, where I have demonstrated proficiency in various aspects such as animation and Mecanim animator, sound design, and audio mixer manipulation, UI development in both canvas and 3D space, shader graphs, scriptable objects, render pipelines, as well as adeptness in path finding algorithms and AI control.
+
+With a strong foundation in these areas, I consistently strive to push the boundaries of creativity and technical innovation, delivering compelling gaming experiences that captivate and engage audiences. 
+
+Having spent most of my life in front of my computer screen, both in creating and playing games, I would consider myself having a rather unique perspective when it comes to the industry of game development.
+
+Let's connect and explore how we can collaborate to bring your gaming visions to life.
 
 Here are some of the projects I worked on while at [Blok.Party.](www.linkedin.com/company/blok-party)
 #### (I recommend downloading for best viewing experience)
