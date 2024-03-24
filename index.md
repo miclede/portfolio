@@ -18,3 +18,13 @@ Here are some of the projects I worked on while at [Blok.Party.](www.linkedin.co
 <p align="center">
   <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/set.gif" alt="Taptop_Set"/>
 </p>
+
+### Blok.Party - Ticket to Ride
+<p align="center">
+  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/ttr_compression.gif" alt="Taptop_TicketToRide"/>
+</p>
+
+### Blok.Party - Hearts
+<p align="center">
+  <img src= "https://raw.githubusercontent.com/miclede/portfolio/gh-pages/assets/images/hearts_compressed.gif" alt="Taptop_Hearts"/>
+</p>
