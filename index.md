@@ -1,14 +1,14 @@
 ### Welcome!
 
-My name is Michael, I am a seasoned game developer with a passion for crafting immersive experiences since 2013. Throughout my journey, I have honed my skills in utilizing company custom frameworks while seamlessly collaborating with diverse teams in both QA, Design and in joint development infrastructure.
+My name is Michael, I am a seasoned game engineer with a passion for crafting video games with the Unity Development Platform since 2013. Throughout my journey, I have have honed my skills in utilizing custom frameworks, design patterns, and Unity systems to seamlessly collaborate with diverse, cross-functional teams to release games.
 
-My expertise lies in the utilization of C# scripting and Unity, where I have demonstrated proficiency in various aspects such as animation and Mecanim animator, sound design, and audio mixer manipulation, UI development in both canvas and 3D space, shader graphs, scriptable objects, render pipelines, as well as adeptness in path finding algorithms and AI control.
+My expertise lies in utilizing design patterns that integrate with Unity systems to enhance the development experience, enabling designers and artists to express their creativity in a functional and meaningful manner. I have a store house of tooling that can easily, and seamlessly be injected into a project to jump-start development or enhance a suite of existing tools.
 
-With a strong foundation in these areas, I consistently strive to push the boundaries of creativity and technical innovation, delivering compelling gaming experiences that captivate and engage audiences. 
+With my strong foundational understanding of Unity systems, combined with my editor tooling knowledge, I strive to push the boundaries of the development experience; to be a part of a team as the ultimate support, a source of knowledge and helping hand.
 
-Having spent most of my life in front of my computer screen, both in creating and playing games, I would consider myself having a rather unique perspective when it comes to the industry of game development.
+Having spent most of my life in front of my computer screen, I can confidently say there are few people out there with my level of experience and understanding of the gaming space. My unique perspective, developed over many years of playing games at a high level, and coding background will be an asset on any team looking to release a successful product.
 
-Let's connect and explore how we can collaborate to bring your gaming visions to life.
+Let's connect and explore how we can collaborate to bring gaming to it's next level.
 
 Here are some of the projects I worked on while at [Blok.Party.](www.linkedin.com/company/blok-party)
 #### (I recommend downloading for best viewing experience)
